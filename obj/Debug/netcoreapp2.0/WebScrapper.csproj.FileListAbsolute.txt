@@ -1,0 +1,11 @@
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\bin\Debug\netcoreapp2.0\WebScrapper.deps.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\bin\Debug\netcoreapp2.0\WebScrapper.runtimeconfig.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\bin\Debug\netcoreapp2.0\WebScrapper.runtimeconfig.dev.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\bin\Debug\netcoreapp2.0\WebScrapper.dll
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\bin\Debug\netcoreapp2.0\WebScrapper.pdb
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\obj\Debug\netcoreapp2.0\WebScrapper.csprojResolveAssemblyReference.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\obj\Debug\netcoreapp2.0\WebScrapper.csproj.CoreCompileInputs.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\obj\Debug\netcoreapp2.0\WebScrapper.AssemblyInfoInputs.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\obj\Debug\netcoreapp2.0\WebScrapper.AssemblyInfo.cs
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\obj\Debug\netcoreapp2.0\WebScrapper.dll
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\WebScrapper\WebScrapper\obj\Debug\netcoreapp2.0\WebScrapper.pdb
